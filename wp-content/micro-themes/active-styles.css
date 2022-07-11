@@ -1,0 +1,98 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> empresa corpo **/
+#wpforms-88-field_0 {
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(0, 0, 0) !important;
+	border-color: rgb(0, 0, 0) rgb(20, 124, 132) rgb(20, 124, 132) rgb(20, 124, 132) !important;
+}
+
+/** Geral >> email corpo **/
+#wpforms-88-field_1 {
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(0, 0, 0) !important;
+	border-color: rgb(0, 0, 0) rgb(20, 124, 132) rgb(20, 124, 132) rgb(20, 124, 132) !important;
+}
+
+/** Geral >> numero corpo **/
+#wpforms-88-field_3 {
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(0, 0, 0) !important;
+	border-color: rgb(0, 0, 0) rgb(20, 124, 132) rgb(20, 124, 132) rgb(20, 124, 132) !important;
+}
+
+/** Geral >> referencia corpo **/
+#wpforms-88-field_2 {
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(0, 0, 0) !important;
+	border-color: rgb(0, 0, 0) rgb(20, 124, 132) rgb(20, 124, 132) rgb(20, 124, 132) !important;
+}
+
+/** Geral >> objetivo corpo **/
+#wpforms-88-field_6 {
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(0, 0, 0) !important;
+	border-color: rgb(0, 0, 0) rgb(20, 124, 132) rgb(20, 124, 132) rgb(20, 124, 132) !important;
+}
+
+/** Geral >> escolha corpo **/
+#wpforms-88-field_4-container .choices__inner {
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(0, 0, 0) !important;
+	border-color: rgb(0, 0, 0) rgb(20, 124, 132) rgb(20, 124, 132) rgb(20, 124, 132) !important;
+}
+
+/** Geral >> extras corpo **/
+#wpforms-88-field_7 {
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(0, 0, 0) !important;
+	border-color: rgb(0, 0, 0) rgb(20, 124, 132) rgb(20, 124, 132) rgb(20, 124, 132) !important;
+}
+
+/** Geral >> botão **/
+#wpforms-submit-88 {
+	color: rgb(255, 255, 255) !important;
+	background-image: linear-gradient(45deg, rgb(20, 124, 132), rgb(3, 3, 113)) !important;
+	padding-top: 1px !important;
+	border-color: rgb(0, 0, 0) !important;
+	border-radius: 20px !important;
+}
+
+/** Geral >> Wpforms 88 field 7 container wpforms field label **/
+#wpforms-88-field_7-container .wpforms-field-label {
+	color: rgb(255, 255, 255) !important;
+}
+
+/** Geral >> Wpforms 88 field 4 container wpforms field label **/
+#wpforms-88-field_4-container .wpforms-field-label {
+	color: rgb(255, 255, 255) !important;
+}
+
+/** Geral >> Wpforms 88 field 2 container wpforms field label **/
+#wpforms-88-field_2-container .wpforms-field-label {
+	color: rgb(255, 255, 255) !important;
+}
+
+/** Geral >> Wpforms 88 field 1 container wpforms field label **/
+#wpforms-88-field_1-container .wpforms-field-label {
+	color: rgb(255, 255, 255) !important;
+}
+
+/** Geral >> Wpforms 88 field 6 container wpforms field label **/
+#wpforms-88-field_6-container .wpforms-field-label {
+	color: rgb(255, 255, 255) !important;
+}
+
+/** Geral >> Wpforms 88 field 3 container wpforms field label **/
+#wpforms-88-field_3-container .wpforms-field-label {
+	color: rgb(255, 255, 255) !important;
+}
+
+/** Geral >> Wpforms 88 field 0 container wpforms field label **/
+#wpforms-88-field_0-container .wpforms-field-label {
+	color: rgb(255, 255, 255) !important;
+}
+
